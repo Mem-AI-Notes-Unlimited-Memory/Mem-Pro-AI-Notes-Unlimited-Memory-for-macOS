@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cutt.ly/1toJ5Xzi">
+  <a href="https://cutt.ly/GtOsF9aS">
     <img src="https://img.shields.io/badge/Open_Mem_Pro_Guide-FF6B35?style=for-the-badge&logo=mem&logoColor=white"
          height="84"
          style="border-radius:42px; box-shadow:0 20px 60px rgba(255,107,53,0.6);">
